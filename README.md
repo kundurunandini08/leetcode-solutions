@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
