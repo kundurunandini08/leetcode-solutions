@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0258-add-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kundurunandini08/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
