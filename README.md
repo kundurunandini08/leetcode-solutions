@@ -46,4 +46,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
