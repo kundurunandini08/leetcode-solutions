@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -47,4 +48,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0461-hamming-distance) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
