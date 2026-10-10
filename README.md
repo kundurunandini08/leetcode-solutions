@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -62,5 +64,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/kundurunandini08/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
